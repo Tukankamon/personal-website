@@ -1,11 +1,13 @@
 body {
 	font-family: sans-serif ;
+  font-size: large;
+  line-height: 1.4;
 	background: #2b2524 ;
 	color: #ccc ;
 }
 
 main {
-	max-width: 800px ;
+	max-width: 900px ;
 	margin: auto ;
 }
 
@@ -17,6 +19,16 @@ header h1 {
 	text-align: center ;
 }
 
+/* Idk if there is a better way to do this */
+
+h2 {
+	text-align: center ;
+}
+
+h3 {
+	text-align: center ;
+}
+
 footer {
 	text-align: center ;
 	clear: both ;
@@ -24,11 +36,12 @@ footer {
 
 /* Subject to change */
 a:link {
-  color: #ccc;
+  color: #55c1ba;
 }
 
+/* Better to keep the color constant */
 a:visited {
-  color: #095484;
+  color: #55c1ba;
 }
 
 a:hover {

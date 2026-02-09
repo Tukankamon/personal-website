@@ -1,5 +1,4 @@
 +++
-date = '2026-02-09T13:51:14+01:00'
 title = 'Landing Page'
 +++
 
@@ -8,6 +7,7 @@ This is the landing page for my website
 # Quick links:
 - [About](/about)
 - [Cool sites / stuff](/cool-stuff)
+- [Software I use](/software)
 
 
 # Tags:

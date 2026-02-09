@@ -28,9 +28,8 @@ El último gran paso sería el cambio de sistema operativo. No todo el mundo pue
 
 Cuando empiezas a investigar sobre esto es normal que te sientas impotente y que hagas lo que hagas no vas a poder hacer nada pero es importante que intentes mejorar aun que sea un poco tu privacidad en internet para que a lo mejor en un futuro no tan lejano no tengamos que poner tanto esfuerzo en que no nos espíen así que tranquilidad y tómatelo con calma
 
----
 
-# References:
+# Referencias:
 
 [Lois Rossman](https://www.youtube.com/watch?v=3o0B2IuS8gs) Brain planned obsolescence
 

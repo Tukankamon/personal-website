@@ -11,6 +11,7 @@ Most of them are non bloated / indie sites
     - [Vimjoyer](https://www.youtube.com/@vimjoyer) The goat of NixOs on youtube
     - [MyNixos](https://mynixos.com/) Search options for both NixOs and HomeManager
 - [Arch Wiki](https://wiki.archlinux.org/title/Main_page) great for any distro
+- Of course the [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) is great too
 - [Free Software Foundation](https://www.fsf.org/)
 - [Luke Smith](https://lukesmith.xyz)
 

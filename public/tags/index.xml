@@ -5,7 +5,7 @@
 	<description>Recent content in Tags on Test</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Mon, 09 Feb 2026 14:38:56 +0100</lastBuildDate>
+	<lastBuildDate>Sat, 22 Nov 2025 14:38:56 +0100</lastBuildDate>
     
         <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 	
@@ -13,7 +13,7 @@
 	<item>
 		<title>La Privacidad Ha Muerto</title>
 		<link>http://localhost:1313/mini-essay/la-privacidad-ha-muerto/</link>
-		<pubDate>Mon, 09 Feb 2026 14:38:56 +0100</pubDate>
+		<pubDate>Sat, 22 Nov 2025 14:38:56 +0100</pubDate>
 		
 		<guid>http://localhost:1313/mini-essay/la-privacidad-ha-muerto/</guid>
 		<description>&lt;p&gt;Tienes algo que esconder? Como seguro que no tienes nada que esconder dentro de poco llegará un hombre a tu casa. No dirá nada. Su único trabajo es seguirte a donde vayas para apuntar lo que vas haciendo: que comes, con quien hablas, donde trabajas, que mensajes le mandas a la gente, te mirará mientras que duermes para ver si duermes las horas adecuadas y leerá todo tu historial médico para ver si tienes alguna enfermedad. Irá en el coche contigo y mirará todo lo que tu miras en el ordenador del trabajo. Tranquilo esto &lt;strong&gt;no es una invasión de privacidad&lt;/strong&gt; ni nada por el estilo sino que es más bien para mejorar tu seguridad y la de todos. Este hombre le mandará toda la información que haya recogido a una empresa que se encargará de hacer perdiciones sobre ti. Te mandarán cartas con anuncios de melatonina si es que no duermes bien o quizás de una tienda que está de camino a tu trabajo que a tu compañera, con la que el hombre sabe que hablaste ayer sobre lo pesado que es tu jefe, le encanta mientras que tu no has entrado nunca.&lt;/p&gt;
@@ -64,12 +64,7 @@ La fruta más baja es dejar de usar google y pasarse a algo como duckduckgo, bra
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
 		<guid>http://localhost:1313/about/</guid>
-		<description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
-&lt;p&gt;yo&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Hi&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Bruh&lt;/li&gt;
-&lt;/ul&gt;
+		<description>&lt;p&gt;I&amp;rsquo;m just a guy that likes math and free software&lt;/p&gt;
 &lt;h1 id=&#34;my-other-stuff&#34;&gt;My other stuff&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Tukankamon&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;

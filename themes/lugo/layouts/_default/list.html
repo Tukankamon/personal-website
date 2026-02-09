@@ -1,0 +1,25 @@
+{{ define "title" -}}
+{{ .Title | title }}
+{{- end }}
+{{ define "main" -}}
+{{ .Content }}
+<ul>
+{{- range.Pages }}
+<li>
+  <!-- datesinlist is always set at least to last modified date -->
+	{{- if and (.Param "datesinlist") (isset .Params "date") }}
+  <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 02 2006" }}
+  </time> &ndash; {{ end -}}
+	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+
+  <!-- Unused -->
+	{{- if .Param "authorsinlist" }}
+	{{ with .Params.authors }}
+		by 
+		{{ delimit . ", " " and " }}
+	{{end}}
+	{{ end -}}
+</li>
+{{- end }}
+</ul>
+{{- end }}

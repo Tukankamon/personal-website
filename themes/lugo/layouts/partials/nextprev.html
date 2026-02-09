@@ -1,0 +1,10 @@
+{{ if and (isset .Params "date") (or .Next .Prev) -}}
+<div id="nextprev">
+{{- with .Prev }}
+<a href="{{ .RelPermalink}}"><div id="prevart">Previous:{{.Title}}<br>←</div></a>
+{{ end -}}
+{{- with .Next -}}
+<a href="{{ .RelPermalink}}"><div id="nextart">{{.Title}}<br>→</div></a>
+{{ end -}}
+</div>
+{{ end -}}

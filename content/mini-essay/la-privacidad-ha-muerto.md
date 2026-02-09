@@ -1,0 +1,43 @@
++++
+date = '2026-02-09T14:38:56+01:00'
+title = 'La Privacidad Ha Muerto'
+tags = ['español', 'mini-essay']
++++
+Tienes algo que esconder? Como seguro que no tienes nada que esconder dentro de poco llegará un hombre a tu casa. No dirá nada. Su único trabajo es seguirte a donde vayas para apuntar lo que vas haciendo: que comes, con quien hablas, donde trabajas, que mensajes le mandas a la gente, te mirará mientras que duermes para ver si duermes las horas adecuadas y leerá todo tu historial médico para ver si tienes alguna enfermedad. Irá en el coche contigo y mirará todo lo que tu miras en el ordenador del trabajo. Tranquilo esto __no es una invasión de privacidad__ ni nada por el estilo sino que es más bien para mejorar tu seguridad y la de todos. Este hombre le mandará toda la información que haya recogido a una empresa que se encargará de hacer perdiciones sobre ti. Te mandarán cartas con anuncios de melatonina si es que no duermes bien o quizás de una tienda que está de camino a tu trabajo que a tu compañera, con la que el hombre sabe que hablaste ayer sobre lo pesado que es tu jefe, le encanta mientras que tu no has entrado nunca.
+
+Esta vigilancia asegurará también la seguridad de toda la sociedad al castigar y apartar a ciertos indeseables de ella. Todo aquel que coma comida rápida más de una vez a la semana se le aumentará el seguro médico un 10%. Los empresarios podrán tener una visión más amplia de quien contrata por ejemplo al saber cuantos minutos usaba una persona de media el baño de la anterior empresa en la que trabajaba, si está planeando tener un hijo y así pedirse una baja paternal o bien si esa persona habló mal de la empresa hace dos meses en una quedada con un amigo para tomar una café
+
+Suena loco no? Pues esto es el día a día de todos nosotros solo que en vez de un hombre, tenemos todo un sistema digital a nuestro alrededor. La mayoría no estamos a más de 5 metros de nuestro móvil en ningún momento. Un móvil que se usa en nuestra contra y que manda información a la empresa de turno sobre con quien hablamos por teléfono y de que. Los servicios que pagamos para almacenar nuestras fotos en la nube son escaneadas continuamente para alimentarselo a una IA y que luego se usarán para otra vez encontrar patrones en nuestros hábitos. No es que el micrófono de tu móvil te escuche, es que la red de información que tienen sobre ti es tan potente que, en casos, sabe más sobre ti que la gente que más te conoce. El sistema operativo, que junto al de nuestros ordenadores,  está optimizado para informar sobre nosotros con el fin de que los anunciantes puedan saber que cosas somos más o menos propensos a comprar y para que cualquiera que quiera (que puede variar de un empresario a un estado a un ciberdelicuente) pueda saber sobre nosotros todo lo que esté dispuesto a pagar.
+
+Y por que no hacen nada los gobiernos para evitarlo? Pues muy fácil, por que se benefician de la recoleta indiscriminada de información bajo un pretexto de seguridad. No hay que mirar más lejos que la unión europea que pese al rechazo que tuvo la propuesta de "chat control" [^1]ya están manos a la obra con su nueva propuesta que ahora llaman "digital omnibus" [^2]que busca reducir a un nivel de risa las protecciones frente a las practicas depredativas de las grandes empresas que son líderes en el mundo en este aspecto pese lo que dejan por desear. Y como olvidar a Edward Snowden que expuso el nivel de espionaje de estados unidos y como consecuencia el gobierno organizó una cacería internacional para capturarlo
+
+La única razón por la que la gente cree que esto no le afecta por que no hacen nada mal o "no tienen nada que esconder"  es por que no pueden verlo. Es invisible, por que ya te digo yo que si hubiese una persona que pudiesen ver vigilando todo lo que hacen y dicen no les daría tanto igual y si crees que es un mal necesario para evitar que se cometan ilegalidades te recuerdo que estás a un cambio de ley, a un voto en el congreso, de que lo que tu haces en tu día a día sea ilegal. 
+
+No nos olvidemos tampoco que no solo es un riesgo de privacidad sino que también de seguridad. De dónde crees que sacan tu número las llamadas spam? A estas empresas le importa tres mierdas la seguridad de nuestra información y es raro el día donde no hay un leakeo de información como Whatsapp que ha expuesto 3.5 miles de millones de números de teléfonos [^4] o hace dos meses con discord donde se filtraron nombres de usuario, emails, los últimos 4 dígitos de tarjetas de crédito y fotos de los carnet de identidad de todo aquel que tuvo que seguir la verificación de identidad del reino unido que es obligatorio por ley [^5]
+
+Es imposible escapar las garras del espionage completamente pero hay cosas que ayudan a atenuarlo.
+La fruta más baja es dejar de usar google y pasarse a algo como duckduckgo, brave o startpage que tiene los mismos resultados que google pero sin recopilar datos
+
+Lo siguiente es tu navegador. Chrome se tiene que ir. Si te gusta como se ve y funciona Brave es muy parecido y viene con su propio buscador que he dicho antes. Firefox también es una buena opción aunque a lo mejor te conviene cambiar algunos ajustes antes de usarlo. Si quieres ir a tope puedes usar cosas como LibreWolf o Mullvad que están basados en Firefox pero con ajustes muy estrictos. El problema con estos es que es posible que rompan alguna página web que tenga por ejemplo un mapa así que yo tendría un navegador de repuesto si vas a usar alguno de estos
+
+Lo siguiente es un bloqueador de anuncios. Brave trae el suyo propio por defecto pero para los demás navegadores uBlock[^6] origin es indispensable. Es importante por dos razones primero por que aparte de anuncios bloquean cualquier que código de JavaScript que pueda ser peligroso y más importanetemente la razón principal por la que hay una recogida masiva de información es precisamente para utilizarla en anuncios personalizados. Si bloqueas los anuncios estás haciendo que el negocio de vender tu información sea un poquito menos rentable. Hay un video de Lois Rossman que lo explica muy bien y lo dejaré en la descripción [^7]
+
+Por ahora todo bien. Todo el mundo debería poder hacer los cambios hasta ahora pero ahora voy a empezar con algunos cambios que no todo el mundo puede hacer. El siguiente paso sería cambiar tu mensajería. Gmail no se si lo sabes pero lee todo el contenido de tus emails así que algo como protonmail o tutanota serían una mejor opción. Nunca mandes un mensaje por algo que no está encriptado de principio a fin. Esto significa que nada de llamar por teléfono, SMS, Instagram, discord y cosas por el estilo. Telegram tiene una opción de activar la encriptación y whatsapp la tiene por defecto pero siguen recolectando el metadata de tus mensajes osea a quien le escribes, cuanto y cuando y por no hablar de que si tienes la copia de seguridad activada toda la encriptación se va al garete y le estás regalando a google o a apple tus mensajes. Intenta pasar a tus conocidos a signal. Es una ONG que sus aplicaciones son de código abierto y no guardan ninguna información identificable y por supuesto los mensajes están encriptados
+
+El último gran paso sería el cambio de sistema operativo. No todo el mundo puede usar Linux en su ordenador pero si no necesitas software específico de windows que se reduce a Adobe y algunos juegos multijugador es muy recomendable. Ya no solo por la privacidad sino que es que es un mejor sistema operativo a secas. En móvil podrías usar un fork de android como Graphene OS pero eso trae sus propias complicaciones y yo mismo aún no lo he hecho. Ya lo que hagas más allá de esto o es muy técnico o cada vez merece menos la pena como por ejemplo no llevar una sim en el móvil para no enviarle tu ubicación constantemente a movistar pero más o menos esto debería bastar para la mayoría de la gente.
+
+Cuando empiezas a investigar sobre esto es normal que te sientas impotente y que hagas lo que hagas no vas a poder hacer nada pero es importante que intentes mejorar aun que sea un poco tu privacidad en internet para que a lo mejor en un futuro no tan lejano no tengamos que poner tanto esfuerzo en que no nos espíen así que tranquilidad y tómatelo con calma
+
+---
+
+# References:
+
+[Lois Rossman](https://www.youtube.com/watch?v=3o0B2IuS8gs) Brain planned obsolescence
+
+[^1]: Chat control
+[^2]: [Techlore](https://www.youtube.com/watch?v=VR53pppurTU) Digital omnibus
+
+[^4]: Whatsapp leak [Techlore](https://www.youtube.com/watch?v=aUKIeeCskSU)
+[^5]: [No text to speech](https://www.youtube.com/watch?v=GbXATeFfkRA) Discord breach
+[^6]: [Ublock](https://ublockorigin.com/)
+[^7]: [Lois Rossman](https://www.youtube.com/watch?v=_ErjCOv2AYA) Ad block

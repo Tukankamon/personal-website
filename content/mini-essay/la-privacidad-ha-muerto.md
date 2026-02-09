@@ -1,5 +1,5 @@
 +++
-date = '2026-02-09T14:38:56+01:00'
+date = '2025-11-22T14:38:56+01:00'
 title = 'La Privacidad Ha Muerto'
 tags = ['español', 'mini-essay']
 +++

@@ -30,7 +30,6 @@ Cuando empiezas a investigar sobre esto es normal que te sientas impotente y que
 
 
 # Referencias:
-
 [Lois Rossman](https://www.youtube.com/watch?v=3o0B2IuS8gs) Brain planned obsolescence
 
 [^1]: Chat control
